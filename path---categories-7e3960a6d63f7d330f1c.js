@@ -1,0 +1,2 @@
+webpackJsonp([30875753179511],{378:function(e,t){e.exports={data:{site:{siteMetadata:{title:"May-B",subtitle:"the force be with you ✨",copyright:"© All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About me",path:"/about/"}],author:{name:"May",email:"seo.eunjeong5@gmail.com",github:"EunJung-Seo"}}},allMarkdownRemark:{group:[{fieldValue:"Rails",totalCount:1},{fieldValue:"Team",totalCount:1}]}},pathContext:{}}}});
+//# sourceMappingURL=path---categories-7e3960a6d63f7d330f1c.js.map
